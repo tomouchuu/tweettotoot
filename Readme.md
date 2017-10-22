@@ -2,6 +2,8 @@
 
 ## Posts your tweets to toots
 
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/tomouchuu/tweettotoot&env=TWITTER_CONSUMER_KEY&env=TWITTER_CONSUMER_SECRET&env=TWITTER_ACCESS_TOKEN&env=TWITTER_ACCESS_TOKEN_SECRET&env=TWITTER_USERNAME&env=MASTODON_ACCESS_TOKEN&env=MASTODON_INSTANCE)
+
 ### Install / Setup
 
 1. Clone Repo
